@@ -9,9 +9,13 @@
 
 # 💫 About Me
 
+<<<<<<< HEAD
 I am a Cybersecurity Enthusiast and Security Researcher with a strong focus on Web Application, API, and Android Security Testing.
 I work on identifying vulnerabilities, performing security assessments, and understanding real-world attack surfaces to improve application security.
 My interests include penetration testing, cloud security, automation, and offensive security research.
+=======
+I am a Cybersecurity Enthusiast and Security Researcher with a strong focus on Web Application, API, and Android Security Testing.  <br>I work on identifying vulnerabilities, performing security assessments, and understanding real-world attack surfaces to improve application security.  My interests include penetration testing, cloud security, automation, and offensive security research.
+>>>>>>> e7e5e26f99d92561f6aa37a34327766394d35333
 
 ## 🌐 Socials
 
