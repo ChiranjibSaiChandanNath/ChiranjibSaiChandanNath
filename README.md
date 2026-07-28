@@ -9,10 +9,7 @@
 
 # 💫 About Me
 
-I am a Cybersecurity Enthusiast and Security Researcher with a strong focus on **Android, Web Application, and API Security Testing**.
-I work on identifying vulnerabilities, performing structured security assessments, and understanding real-world attack surfaces to improve application security — combining static analysis (MobSF, JADX) with dynamic validation (ADB, Burp Suite, Frida) to separate confirmed exploitable findings from theoretical ones.
-
-My interests include penetration testing, security tooling & automation, and offensive security research. I build and brand my own tools under **Brut Security**, including [AndroBrut](https://github.com/ChiranjibSaiChandanNath/AndroBrut) — a Windows-optimized Android pentest automation toolkit. *"No root, no glory."*
+I am a Cybersecurity Enthusiast and Security Researcher with a strong focus on Web Application, API, and Android Security Testing.  <br>I work on identifying vulnerabilities, performing security assessments, and understanding real-world attack surfaces to improve application security.  <br>My interests include penetration testing, cloud security, automation, and offensive security research.
 
 ## 🌐 Socials
 
