@@ -5,5 +5,26 @@
     "logo": "logo.png",
     "description": "Windows-optimized Android pentest automation toolkit. No root, no glory.",
     "tags": ["Batch", "Python", "ADB", "Android Security"]
+  },
+  {
+    "name": "F.R.I.D.A.Y.",
+    "repo": "ChiranjibSaiChandanNath/F.R.I.D.A.Y",
+    "logo": "",
+    "description": "",
+    "tags": ["Python", "AI Assistant"]
+  },
+  {
+    "name": "SMS",
+    "repo": "ChiranjibSaiChandanNath/SMS",
+    "logo": "",
+    "description": "",
+    "tags": ["Python"]
+  },
+  {
+    "name": "ZOD",
+    "repo": "ChiranjibSaiChandanNath/ZOD",
+    "logo": "",
+    "description": "",
+    "tags": ["Python"]
   }
 ]

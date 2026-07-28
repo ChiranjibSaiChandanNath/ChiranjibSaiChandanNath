@@ -1,17 +1,11 @@
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
 <!-- GitHub shows dark.svg in dark mode and light.svg in light mode automatically -->
-<!-- NOTE: no hero SVG is included yet — arifhaxn's dark.svg/light.svg were hand-built
-     (no generator script in the repo) and are shape/animation-based rather than <text>,
-     since GitHub's SVG sanitizer strips <text> elements. Swap the two srcset lines below
-     once you've built (or had built) an equivalent animated banner for Brut Security. -->
 
-<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChiranjibSaiChandanNath/ChiranjibSaiChandanNath/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChiranjibSaiChandanNath/ChiranjibSaiChandanNath/main/light.svg">
   <img alt="Chiranjib Sai Chandan Nath" src="https://raw.githubusercontent.com/ChiranjibSaiChandanNath/ChiranjibSaiChandanNath/main/light.svg">
 </picture>
--->
 
 # 💫 About Me
 
@@ -47,7 +41,12 @@ My interests include penetration testing, security tooling & automation, and off
 
 <br/>
 
-<!-- Stats + Top languages — side by side -->
+<!-- Stats + Top languages — side by side.
+     If these show broken: the public github-readme-stats.vercel.app demo instance is
+     shared by everyone using the tool and regularly hits Vercel's free usage quota —
+     it's not something wrong with this repo. Fix: deploy your own free copy at
+     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own then swap
+     "github-readme-stats.vercel.app" below for your own *.vercel.app domain. -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ChiranjibSaiChandanNath&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=merko" alt="Sanu's GitHub stats" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiranjibSaiChandanNath&layout=compact&hide_border=true&theme=merko" alt="Top languages" />
 
