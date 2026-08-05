@@ -2,29 +2,29 @@
   {
     "name": "AndroBrut",
     "repo": "ChiranjibSaiChandanNath/AndroBrut",
-    "logo": "images.jpg",
-    "description": "Windows-optimized Android pentest automation toolkit. No root, no glory.",
+    "logo": "androbrut.png",
+    "description": "Windows-optimized Android penetration testing automation toolkit.",
     "tags": ["Batch", "Python", "ADB", "Android Security"]
   },
   {
     "name": "F.R.I.D.A.Y.",
     "repo": "ChiranjibSaiChandanNath/F.R.I.D.A.Y",
-    "logo": "",
-    "description": "",
+    "logo": "images.jpg",
+    "description": "Personalized AI assistant built with Python.",
     "tags": ["Python", "AI Assistant"]
   },
   {
     "name": "SMS",
     "repo": "ChiranjibSaiChandanNath/SMS",
-    "logo": "",
-    "description": "",
-    "tags": ["Python"]
+    "logo": "SMS.png",
+    "description": "A comprehensive system for managing student records, academic details, and administrative tasks.",
+    "tags": ["Python", "Student Management"]
   },
   {
     "name": "ZOD",
     "repo": "ChiranjibSaiChandanNath/ZOD",
-    "logo": "",
-    "description": "",
-    "tags": ["Python"]
+    "logo": "ZOD.png",
+    "description": "Zip of Death research and testing tool.",
+    "tags": ["Python", "Security Research"]
   }
 ]
